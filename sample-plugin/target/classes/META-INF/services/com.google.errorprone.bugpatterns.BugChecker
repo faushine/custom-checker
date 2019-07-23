@@ -1,0 +1,4 @@
+com.ECE654.checker.DoNotReturnNull
+com.ECE654.checker.MyCustomCheck
+com.ECE654.checker.NoSynchronizedMethodCheck
+com.ECE654.checker.NoSynchronizedThisCheck
