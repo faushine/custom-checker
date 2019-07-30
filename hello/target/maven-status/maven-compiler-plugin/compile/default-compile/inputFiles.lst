@@ -1,4 +1,6 @@
 /Users/faushine/Documents/custom-checker/hello/src/main/java/com/ECE654/checker/DoNotReturnNullPositiveCases.java
-/Users/faushine/Documents/custom-checker/hello/src/main/java/com/ECE654/checker/Counter.java
+/Users/faushine/Documents/custom-checker/hello/src/main/java/com/ECE654/checker/NoSynchronizedPositiveCases.java
 /Users/faushine/Documents/custom-checker/hello/src/main/java/com/ECE654/checker/Hello.java
+/Users/faushine/Documents/custom-checker/hello/src/main/java/com/ECE654/checker/StaticQualifierPositiveCases.java
 /Users/faushine/Documents/custom-checker/hello/src/main/java/com/ECE654/checker/Singleton.java
+/Users/faushine/Documents/custom-checker/hello/src/main/java/com/ECE654/checker/ArrayToStringPositiveCases.java

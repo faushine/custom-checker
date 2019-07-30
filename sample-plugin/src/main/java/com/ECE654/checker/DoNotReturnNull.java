@@ -36,7 +36,7 @@ import javax.annotation.Nullable;
     severity = ERROR)
 public class DoNotReturnNull extends BugChecker implements BugChecker.MethodTreeMatcher {
 
-  private static final Matcher<Tree> HAS_NULLABLE_ANNOTATION = hasAnnotation(Nullable.class.getCanonicalName());
+  private static final Matcher<Tree> HAS_NULLABLE_ANNOTATION = hasAnnotation(Nullable.class.getName());
   private static final Matcher<Tree> CONTAINS_RETURN_NULL = contains(new ReturnNullMatcher());
 
   @Override
